@@ -166,3 +166,4 @@ noteForm.addEventListener('submit', (e) => {
 // Initial render on page load
 renderNotes();
 
+
